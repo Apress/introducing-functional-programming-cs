@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\StaticAndInstanceMethods\obj\Debug\net7.0\StaticAndInstanceMethods.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\StaticAndInstanceMethods\obj\Debug\net7.0\StaticAndInstanceMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\StaticAndInstanceMethods\obj\Debug\net7.0\StaticAndInstanceMethods.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\StaticAndInstanceMethods\obj\Debug\net7.0\StaticAndInstanceMethods.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\StaticAndInstanceMethods\obj\Debug\net7.0\StaticAndInstanceMethods.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\StaticAndInstanceMethods\bin\Debug\net7.0\StaticAndInstanceMethods.exe
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\StaticAndInstanceMethods\bin\Debug\net7.0\StaticAndInstanceMethods.deps.json
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\StaticAndInstanceMethods\bin\Debug\net7.0\StaticAndInstanceMethods.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\StaticAndInstanceMethods\bin\Debug\net7.0\StaticAndInstanceMethods.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\StaticAndInstanceMethods\bin\Debug\net7.0\StaticAndInstanceMethods.pdb
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\StaticAndInstanceMethods\obj\Debug\net7.0\StaticAndInstanceMethods.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\StaticAndInstanceMethods\obj\Debug\net7.0\refint\StaticAndInstanceMethods.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\StaticAndInstanceMethods\obj\Debug\net7.0\StaticAndInstanceMethods.pdb
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\StaticAndInstanceMethods\obj\Debug\net7.0\StaticAndInstanceMethods.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\StaticAndInstanceMethods\obj\Debug\net7.0\ref\StaticAndInstanceMethods.dll

@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo4_PipeliningAlternativeUsingHof\bin\Debug\net7.0\Demo4_PipeliningAlternativeUsingHof.exe
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo4_PipeliningAlternativeUsingHof\bin\Debug\net7.0\Demo4_PipeliningAlternativeUsingHof.deps.json
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo4_PipeliningAlternativeUsingHof\bin\Debug\net7.0\Demo4_PipeliningAlternativeUsingHof.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo4_PipeliningAlternativeUsingHof\bin\Debug\net7.0\Demo4_PipeliningAlternativeUsingHof.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo4_PipeliningAlternativeUsingHof\bin\Debug\net7.0\Demo4_PipeliningAlternativeUsingHof.pdb
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo4_PipeliningAlternativeUsingHof\obj\Debug\net7.0\Demo4_PipeliningAlternativeUsingHof.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo4_PipeliningAlternativeUsingHof\obj\Debug\net7.0\Demo4_PipeliningAlternativeUsingHof.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo4_PipeliningAlternativeUsingHof\obj\Debug\net7.0\Demo4_PipeliningAlternativeUsingHof.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo4_PipeliningAlternativeUsingHof\obj\Debug\net7.0\Demo4_PipeliningAlternativeUsingHof.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo4_PipeliningAlternativeUsingHof\obj\Debug\net7.0\Demo4_PipeliningAlternativeUsingHof.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo4_PipeliningAlternativeUsingHof\obj\Debug\net7.0\Demo4_PipeliningAlternativeUsingHof.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo4_PipeliningAlternativeUsingHof\obj\Debug\net7.0\refint\Demo4_PipeliningAlternativeUsingHof.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo4_PipeliningAlternativeUsingHof\obj\Debug\net7.0\Demo4_PipeliningAlternativeUsingHof.pdb
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo4_PipeliningAlternativeUsingHof\obj\Debug\net7.0\Demo4_PipeliningAlternativeUsingHof.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo4_PipeliningAlternativeUsingHof\obj\Debug\net7.0\ref\Demo4_PipeliningAlternativeUsingHof.dll

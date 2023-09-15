@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo2_UsingSelectFunction\bin\Debug\net7.0\Demo2_UsingSelectFunction.exe
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo2_UsingSelectFunction\bin\Debug\net7.0\Demo2_UsingSelectFunction.deps.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo2_UsingSelectFunction\bin\Debug\net7.0\Demo2_UsingSelectFunction.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo2_UsingSelectFunction\bin\Debug\net7.0\Demo2_UsingSelectFunction.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo2_UsingSelectFunction\bin\Debug\net7.0\Demo2_UsingSelectFunction.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo2_UsingSelectFunction\obj\Debug\net7.0\Demo2_UsingSelectFunction.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo2_UsingSelectFunction\obj\Debug\net7.0\Demo2_UsingSelectFunction.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo2_UsingSelectFunction\obj\Debug\net7.0\Demo2_UsingSelectFunction.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo2_UsingSelectFunction\obj\Debug\net7.0\Demo2_UsingSelectFunction.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo2_UsingSelectFunction\obj\Debug\net7.0\Demo2_UsingSelectFunction.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo2_UsingSelectFunction\obj\Debug\net7.0\Demo2_UsingSelectFunction.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo2_UsingSelectFunction\obj\Debug\net7.0\refint\Demo2_UsingSelectFunction.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo2_UsingSelectFunction\obj\Debug\net7.0\Demo2_UsingSelectFunction.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo2_UsingSelectFunction\obj\Debug\net7.0\Demo2_UsingSelectFunction.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo2_UsingSelectFunction\obj\Debug\net7.0\ref\Demo2_UsingSelectFunction.dll

@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Exercise4.4\bin\Debug\net7.0\Exercise4.4.exe
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Exercise4.4\bin\Debug\net7.0\Exercise4.4.deps.json
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Exercise4.4\bin\Debug\net7.0\Exercise4.4.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Exercise4.4\bin\Debug\net7.0\Exercise4.4.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Exercise4.4\bin\Debug\net7.0\Exercise4.4.pdb
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Exercise4.4\obj\Debug\net7.0\Exercise4.4.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Exercise4.4\obj\Debug\net7.0\Exercise4.4.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Exercise4.4\obj\Debug\net7.0\Exercise4.4.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Exercise4.4\obj\Debug\net7.0\Exercise4.4.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Exercise4.4\obj\Debug\net7.0\Exercise4.4.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Exercise4.4\obj\Debug\net7.0\Exercise4.4.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Exercise4.4\obj\Debug\net7.0\refint\Exercise4.4.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Exercise4.4\obj\Debug\net7.0\Exercise4.4.pdb
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Exercise4.4\obj\Debug\net7.0\Exercise4.4.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Exercise4.4\obj\Debug\net7.0\ref\Exercise4.4.dll

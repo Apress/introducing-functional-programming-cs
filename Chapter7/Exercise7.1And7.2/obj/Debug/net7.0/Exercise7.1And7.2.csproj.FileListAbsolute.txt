@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Exercise7.1And7.2\bin\Debug\net7.0\Exercise7.1And7.2.exe
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Exercise7.1And7.2\bin\Debug\net7.0\Exercise7.1And7.2.deps.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Exercise7.1And7.2\bin\Debug\net7.0\Exercise7.1And7.2.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Exercise7.1And7.2\bin\Debug\net7.0\Exercise7.1And7.2.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Exercise7.1And7.2\bin\Debug\net7.0\Exercise7.1And7.2.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Exercise7.1And7.2\obj\Debug\net7.0\Exercise7.1And7.2.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Exercise7.1And7.2\obj\Debug\net7.0\Exercise7.1And7.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Exercise7.1And7.2\obj\Debug\net7.0\Exercise7.1And7.2.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Exercise7.1And7.2\obj\Debug\net7.0\Exercise7.1And7.2.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Exercise7.1And7.2\obj\Debug\net7.0\Exercise7.1And7.2.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Exercise7.1And7.2\obj\Debug\net7.0\Exercise7.1And7.2.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Exercise7.1And7.2\obj\Debug\net7.0\refint\Exercise7.1And7.2.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Exercise7.1And7.2\obj\Debug\net7.0\Exercise7.1And7.2.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Exercise7.1And7.2\obj\Debug\net7.0\Exercise7.1And7.2.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Exercise7.1And7.2\obj\Debug\net7.0\ref\Exercise7.1And7.2.dll

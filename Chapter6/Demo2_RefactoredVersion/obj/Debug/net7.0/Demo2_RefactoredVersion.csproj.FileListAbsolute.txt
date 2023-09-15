@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo2_RefactoredVersion\bin\Debug\net7.0\Demo2_RefactoredVersion.exe
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo2_RefactoredVersion\bin\Debug\net7.0\Demo2_RefactoredVersion.deps.json
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo2_RefactoredVersion\bin\Debug\net7.0\Demo2_RefactoredVersion.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo2_RefactoredVersion\bin\Debug\net7.0\Demo2_RefactoredVersion.dll
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo2_RefactoredVersion\bin\Debug\net7.0\Demo2_RefactoredVersion.pdb
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo2_RefactoredVersion\obj\Debug\net7.0\Demo2_RefactoredVersion.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo2_RefactoredVersion\obj\Debug\net7.0\Demo2_RefactoredVersion.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo2_RefactoredVersion\obj\Debug\net7.0\Demo2_RefactoredVersion.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo2_RefactoredVersion\obj\Debug\net7.0\Demo2_RefactoredVersion.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo2_RefactoredVersion\obj\Debug\net7.0\Demo2_RefactoredVersion.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo2_RefactoredVersion\obj\Debug\net7.0\Demo2_RefactoredVersion.dll
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo2_RefactoredVersion\obj\Debug\net7.0\refint\Demo2_RefactoredVersion.dll
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo2_RefactoredVersion\obj\Debug\net7.0\Demo2_RefactoredVersion.pdb
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo2_RefactoredVersion\obj\Debug\net7.0\Demo2_RefactoredVersion.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo2_RefactoredVersion\obj\Debug\net7.0\ref\Demo2_RefactoredVersion.dll

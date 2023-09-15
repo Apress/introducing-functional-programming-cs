@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FoldPattern\bin\Debug\net7.0\Demo7_FoldPattern.exe
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FoldPattern\bin\Debug\net7.0\Demo7_FoldPattern.deps.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FoldPattern\bin\Debug\net7.0\Demo7_FoldPattern.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FoldPattern\bin\Debug\net7.0\Demo7_FoldPattern.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FoldPattern\bin\Debug\net7.0\Demo7_FoldPattern.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FoldPattern\obj\Debug\net7.0\Demo7_FoldPattern.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FoldPattern\obj\Debug\net7.0\Demo7_FoldPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FoldPattern\obj\Debug\net7.0\Demo7_FoldPattern.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FoldPattern\obj\Debug\net7.0\Demo7_FoldPattern.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FoldPattern\obj\Debug\net7.0\Demo7_FoldPattern.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FoldPattern\obj\Debug\net7.0\Demo7_FoldPattern.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FoldPattern\obj\Debug\net7.0\refint\Demo7_FoldPattern.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FoldPattern\obj\Debug\net7.0\Demo7_FoldPattern.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FoldPattern\obj\Debug\net7.0\Demo7_FoldPattern.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FoldPattern\obj\Debug\net7.0\ref\Demo7_FoldPattern.dll

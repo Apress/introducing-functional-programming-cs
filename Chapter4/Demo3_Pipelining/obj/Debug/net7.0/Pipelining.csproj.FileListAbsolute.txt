@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Pipelining\bin\Debug\net7.0\Pipelining.exe
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Pipelining\bin\Debug\net7.0\Pipelining.deps.json
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Pipelining\bin\Debug\net7.0\Pipelining.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Pipelining\bin\Debug\net7.0\Pipelining.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Pipelining\bin\Debug\net7.0\Pipelining.pdb
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Pipelining\obj\Debug\net7.0\Pipelining.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Pipelining\obj\Debug\net7.0\Pipelining.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Pipelining\obj\Debug\net7.0\Pipelining.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Pipelining\obj\Debug\net7.0\Pipelining.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Pipelining\obj\Debug\net7.0\Pipelining.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Pipelining\obj\Debug\net7.0\Pipelining.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Pipelining\obj\Debug\net7.0\refint\Pipelining.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Pipelining\obj\Debug\net7.0\Pipelining.pdb
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Pipelining\obj\Debug\net7.0\Pipelining.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Pipelining\obj\Debug\net7.0\ref\Pipelining.dll

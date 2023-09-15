@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo6_ShallowImmutability\bin\Debug\net7.0\Demo6_ShallowImmutability.exe
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo6_ShallowImmutability\bin\Debug\net7.0\Demo6_ShallowImmutability.deps.json
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo6_ShallowImmutability\bin\Debug\net7.0\Demo6_ShallowImmutability.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo6_ShallowImmutability\bin\Debug\net7.0\Demo6_ShallowImmutability.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo6_ShallowImmutability\bin\Debug\net7.0\Demo6_ShallowImmutability.pdb
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo6_ShallowImmutability\obj\Debug\net7.0\Demo6_ShallowImmutability.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo6_ShallowImmutability\obj\Debug\net7.0\Demo6_ShallowImmutability.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo6_ShallowImmutability\obj\Debug\net7.0\Demo6_ShallowImmutability.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo6_ShallowImmutability\obj\Debug\net7.0\Demo6_ShallowImmutability.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo6_ShallowImmutability\obj\Debug\net7.0\Demo6_ShallowImmutability.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo6_ShallowImmutability\obj\Debug\net7.0\Demo6_ShallowImmutability.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo6_ShallowImmutability\obj\Debug\net7.0\refint\Demo6_ShallowImmutability.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo6_ShallowImmutability\obj\Debug\net7.0\Demo6_ShallowImmutability.pdb
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo6_ShallowImmutability\obj\Debug\net7.0\Demo6_ShallowImmutability.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo6_ShallowImmutability\obj\Debug\net7.0\ref\Demo6_ShallowImmutability.dll

@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo1_AnalyzingTemporalCoupling\bin\Debug\net7.0\Demo1_AnalyzingTemporalCoupling.exe
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo1_AnalyzingTemporalCoupling\bin\Debug\net7.0\Demo1_AnalyzingTemporalCoupling.deps.json
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo1_AnalyzingTemporalCoupling\bin\Debug\net7.0\Demo1_AnalyzingTemporalCoupling.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo1_AnalyzingTemporalCoupling\bin\Debug\net7.0\Demo1_AnalyzingTemporalCoupling.dll
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo1_AnalyzingTemporalCoupling\bin\Debug\net7.0\Demo1_AnalyzingTemporalCoupling.pdb
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo1_AnalyzingTemporalCoupling\obj\Debug\net7.0\Demo1_AnalyzingTemporalCoupling.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo1_AnalyzingTemporalCoupling\obj\Debug\net7.0\Demo1_AnalyzingTemporalCoupling.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo1_AnalyzingTemporalCoupling\obj\Debug\net7.0\Demo1_AnalyzingTemporalCoupling.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo1_AnalyzingTemporalCoupling\obj\Debug\net7.0\Demo1_AnalyzingTemporalCoupling.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo1_AnalyzingTemporalCoupling\obj\Debug\net7.0\Demo1_AnalyzingTemporalCoupling.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo1_AnalyzingTemporalCoupling\obj\Debug\net7.0\Demo1_AnalyzingTemporalCoupling.dll
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo1_AnalyzingTemporalCoupling\obj\Debug\net7.0\refint\Demo1_AnalyzingTemporalCoupling.dll
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo1_AnalyzingTemporalCoupling\obj\Debug\net7.0\Demo1_AnalyzingTemporalCoupling.pdb
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo1_AnalyzingTemporalCoupling\obj\Debug\net7.0\Demo1_AnalyzingTemporalCoupling.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter5Solution\Demo1_AnalyzingTemporalCoupling\obj\Debug\net7.0\ref\Demo1_AnalyzingTemporalCoupling.dll

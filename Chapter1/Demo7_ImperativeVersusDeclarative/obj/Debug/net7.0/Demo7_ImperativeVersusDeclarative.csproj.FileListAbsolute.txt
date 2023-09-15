@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo7_ImperativeVersusDeclarative\bin\Debug\net7.0\Demo7_ImperativeVersusDeclarative.exe
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo7_ImperativeVersusDeclarative\bin\Debug\net7.0\Demo7_ImperativeVersusDeclarative.deps.json
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo7_ImperativeVersusDeclarative\bin\Debug\net7.0\Demo7_ImperativeVersusDeclarative.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo7_ImperativeVersusDeclarative\bin\Debug\net7.0\Demo7_ImperativeVersusDeclarative.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo7_ImperativeVersusDeclarative\bin\Debug\net7.0\Demo7_ImperativeVersusDeclarative.pdb
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo7_ImperativeVersusDeclarative\obj\Debug\net7.0\Demo7_ImperativeVersusDeclarative.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo7_ImperativeVersusDeclarative\obj\Debug\net7.0\Demo7_ImperativeVersusDeclarative.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo7_ImperativeVersusDeclarative\obj\Debug\net7.0\Demo7_ImperativeVersusDeclarative.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo7_ImperativeVersusDeclarative\obj\Debug\net7.0\Demo7_ImperativeVersusDeclarative.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo7_ImperativeVersusDeclarative\obj\Debug\net7.0\Demo7_ImperativeVersusDeclarative.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo7_ImperativeVersusDeclarative\obj\Debug\net7.0\Demo7_ImperativeVersusDeclarative.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo7_ImperativeVersusDeclarative\obj\Debug\net7.0\refint\Demo7_ImperativeVersusDeclarative.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo7_ImperativeVersusDeclarative\obj\Debug\net7.0\Demo7_ImperativeVersusDeclarative.pdb
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo7_ImperativeVersusDeclarative\obj\Debug\net7.0\Demo7_ImperativeVersusDeclarative.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo7_ImperativeVersusDeclarative\obj\Debug\net7.0\ref\Demo7_ImperativeVersusDeclarative.dll

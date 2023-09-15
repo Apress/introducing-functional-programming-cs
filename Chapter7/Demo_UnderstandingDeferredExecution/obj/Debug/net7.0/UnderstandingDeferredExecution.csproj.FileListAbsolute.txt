@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\UnderstandingDeferredExecution\bin\Debug\net7.0\UnderstandingDeferredExecution.exe
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\UnderstandingDeferredExecution\bin\Debug\net7.0\UnderstandingDeferredExecution.deps.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\UnderstandingDeferredExecution\bin\Debug\net7.0\UnderstandingDeferredExecution.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\UnderstandingDeferredExecution\bin\Debug\net7.0\UnderstandingDeferredExecution.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\UnderstandingDeferredExecution\bin\Debug\net7.0\UnderstandingDeferredExecution.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\UnderstandingDeferredExecution\obj\Debug\net7.0\UnderstandingDeferredExecution.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\UnderstandingDeferredExecution\obj\Debug\net7.0\UnderstandingDeferredExecution.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\UnderstandingDeferredExecution\obj\Debug\net7.0\UnderstandingDeferredExecution.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\UnderstandingDeferredExecution\obj\Debug\net7.0\UnderstandingDeferredExecution.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\UnderstandingDeferredExecution\obj\Debug\net7.0\UnderstandingDeferredExecution.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\UnderstandingDeferredExecution\obj\Debug\net7.0\UnderstandingDeferredExecution.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\UnderstandingDeferredExecution\obj\Debug\net7.0\refint\UnderstandingDeferredExecution.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\UnderstandingDeferredExecution\obj\Debug\net7.0\UnderstandingDeferredExecution.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\UnderstandingDeferredExecution\obj\Debug\net7.0\UnderstandingDeferredExecution.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\UnderstandingDeferredExecution\obj\Debug\net7.0\ref\UnderstandingDeferredExecution.dll

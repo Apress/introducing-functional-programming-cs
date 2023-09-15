@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Demo9_PopsicleImmutability/1.0.0": {
+        "runtime": {
+          "Demo9_PopsicleImmutability.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo9_PopsicleImmutability/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningAlternativeUsingHof\bin\Debug\net7.0\PipeliningAlternativeUsingHof.exe
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningAlternativeUsingHof\bin\Debug\net7.0\PipeliningAlternativeUsingHof.deps.json
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningAlternativeUsingHof\bin\Debug\net7.0\PipeliningAlternativeUsingHof.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningAlternativeUsingHof\bin\Debug\net7.0\PipeliningAlternativeUsingHof.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningAlternativeUsingHof\bin\Debug\net7.0\PipeliningAlternativeUsingHof.pdb
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningAlternativeUsingHof\obj\Debug\net7.0\PipeliningAlternativeUsingHof.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningAlternativeUsingHof\obj\Debug\net7.0\PipeliningAlternativeUsingHof.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningAlternativeUsingHof\obj\Debug\net7.0\PipeliningAlternativeUsingHof.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningAlternativeUsingHof\obj\Debug\net7.0\PipeliningAlternativeUsingHof.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningAlternativeUsingHof\obj\Debug\net7.0\PipeliningAlternativeUsingHof.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningAlternativeUsingHof\obj\Debug\net7.0\PipeliningAlternativeUsingHof.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningAlternativeUsingHof\obj\Debug\net7.0\refint\PipeliningAlternativeUsingHof.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningAlternativeUsingHof\obj\Debug\net7.0\PipeliningAlternativeUsingHof.pdb
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningAlternativeUsingHof\obj\Debug\net7.0\PipeliningAlternativeUsingHof.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningAlternativeUsingHof\obj\Debug\net7.0\ref\PipeliningAlternativeUsingHof.dll

@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter2Solution\FunctionEx1A\bin\Debug\net7.0\FunctionEx1A.exe
+E:\MyPrograms\FunctionalC#\Chapter2Solution\FunctionEx1A\bin\Debug\net7.0\FunctionEx1A.deps.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\FunctionEx1A\bin\Debug\net7.0\FunctionEx1A.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\FunctionEx1A\bin\Debug\net7.0\FunctionEx1A.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\FunctionEx1A\bin\Debug\net7.0\FunctionEx1A.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\FunctionEx1A\obj\Debug\net7.0\FunctionEx1A.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\FunctionEx1A\obj\Debug\net7.0\FunctionEx1A.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter2Solution\FunctionEx1A\obj\Debug\net7.0\FunctionEx1A.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\FunctionEx1A\obj\Debug\net7.0\FunctionEx1A.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter2Solution\FunctionEx1A\obj\Debug\net7.0\FunctionEx1A.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\FunctionEx1A\obj\Debug\net7.0\FunctionEx1A.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\FunctionEx1A\obj\Debug\net7.0\refint\FunctionEx1A.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\FunctionEx1A\obj\Debug\net7.0\FunctionEx1A.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\FunctionEx1A\obj\Debug\net7.0\FunctionEx1A.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\FunctionEx1A\obj\Debug\net7.0\ref\FunctionEx1A.dll

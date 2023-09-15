@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo8_UsingForEach\bin\Debug\net7.0\Demo8_UsingForEach.exe
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo8_UsingForEach\bin\Debug\net7.0\Demo8_UsingForEach.deps.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo8_UsingForEach\bin\Debug\net7.0\Demo8_UsingForEach.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo8_UsingForEach\bin\Debug\net7.0\Demo8_UsingForEach.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo8_UsingForEach\bin\Debug\net7.0\Demo8_UsingForEach.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo8_UsingForEach\obj\Debug\net7.0\Demo8_UsingForEach.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo8_UsingForEach\obj\Debug\net7.0\Demo8_UsingForEach.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo8_UsingForEach\obj\Debug\net7.0\Demo8_UsingForEach.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo8_UsingForEach\obj\Debug\net7.0\Demo8_UsingForEach.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo8_UsingForEach\obj\Debug\net7.0\Demo8_UsingForEach.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo8_UsingForEach\obj\Debug\net7.0\Demo8_UsingForEach.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo8_UsingForEach\obj\Debug\net7.0\refint\Demo8_UsingForEach.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo8_UsingForEach\obj\Debug\net7.0\Demo8_UsingForEach.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo8_UsingForEach\obj\Debug\net7.0\Demo8_UsingForEach.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo8_UsingForEach\obj\Debug\net7.0\ref\Demo8_UsingForEach.dll

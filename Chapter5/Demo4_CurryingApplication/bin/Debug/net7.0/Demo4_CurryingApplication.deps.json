@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Demo4_CurryingApplication/1.0.0": {
+        "dependencies": {
+          "Curryfy": "3.1.0"
+        },
+        "runtime": {
+          "Demo4_CurryingApplication.dll": {}
+        }
+      },
+      "Curryfy/3.1.0": {
+        "runtime": {
+          "lib/net5.0/Curryfy.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo4_CurryingApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Curryfy/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-97Ytck7S5J8e3Pz6oO9l7EaFUTUWMGc6Q9IRghp8TJOa93mZuiYvBwxCu+5q8zE18IF74an4l8uEdazJTQOo7g==",
+      "path": "curryfy/3.1.0",
+      "hashPath": "curryfy.3.1.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\PatternMatching\bin\Debug\net7.0\PatternMatching.exe
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\PatternMatching\bin\Debug\net7.0\PatternMatching.deps.json
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\PatternMatching\bin\Debug\net7.0\PatternMatching.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\PatternMatching\bin\Debug\net7.0\PatternMatching.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\PatternMatching\bin\Debug\net7.0\PatternMatching.pdb
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\PatternMatching\obj\Debug\net7.0\PatternMatching.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\PatternMatching\obj\Debug\net7.0\PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\PatternMatching\obj\Debug\net7.0\PatternMatching.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\PatternMatching\obj\Debug\net7.0\PatternMatching.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\PatternMatching\obj\Debug\net7.0\PatternMatching.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\PatternMatching\obj\Debug\net7.0\PatternMatching.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\PatternMatching\obj\Debug\net7.0\refint\PatternMatching.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\PatternMatching\obj\Debug\net7.0\PatternMatching.pdb
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\PatternMatching\obj\Debug\net7.0\PatternMatching.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\PatternMatching\obj\Debug\net7.0\ref\PatternMatching.dll

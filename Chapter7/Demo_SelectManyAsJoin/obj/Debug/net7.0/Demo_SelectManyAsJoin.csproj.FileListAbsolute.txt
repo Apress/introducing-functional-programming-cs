@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo_SelectManyAsJoin\bin\Debug\net7.0\Demo_SelectManyAsJoin.exe
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo_SelectManyAsJoin\bin\Debug\net7.0\Demo_SelectManyAsJoin.deps.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo_SelectManyAsJoin\bin\Debug\net7.0\Demo_SelectManyAsJoin.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo_SelectManyAsJoin\bin\Debug\net7.0\Demo_SelectManyAsJoin.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo_SelectManyAsJoin\bin\Debug\net7.0\Demo_SelectManyAsJoin.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo_SelectManyAsJoin\obj\Debug\net7.0\Demo_SelectManyAsJoin.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo_SelectManyAsJoin\obj\Debug\net7.0\Demo_SelectManyAsJoin.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo_SelectManyAsJoin\obj\Debug\net7.0\Demo_SelectManyAsJoin.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo_SelectManyAsJoin\obj\Debug\net7.0\Demo_SelectManyAsJoin.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo_SelectManyAsJoin\obj\Debug\net7.0\Demo_SelectManyAsJoin.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo_SelectManyAsJoin\obj\Debug\net7.0\Demo_SelectManyAsJoin.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo_SelectManyAsJoin\obj\Debug\net7.0\refint\Demo_SelectManyAsJoin.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo_SelectManyAsJoin\obj\Debug\net7.0\Demo_SelectManyAsJoin.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo_SelectManyAsJoin\obj\Debug\net7.0\Demo_SelectManyAsJoin.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo_SelectManyAsJoin\obj\Debug\net7.0\ref\Demo_SelectManyAsJoin.dll

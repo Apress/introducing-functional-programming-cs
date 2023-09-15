@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo1_Simplified\bin\Debug\net7.0\Demo1_Simplified.exe
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo1_Simplified\bin\Debug\net7.0\Demo1_Simplified.deps.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo1_Simplified\bin\Debug\net7.0\Demo1_Simplified.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo1_Simplified\bin\Debug\net7.0\Demo1_Simplified.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo1_Simplified\bin\Debug\net7.0\Demo1_Simplified.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo1_Simplified\obj\Debug\net7.0\Demo1_Simplified.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo1_Simplified\obj\Debug\net7.0\Demo1_Simplified.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo1_Simplified\obj\Debug\net7.0\Demo1_Simplified.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo1_Simplified\obj\Debug\net7.0\Demo1_Simplified.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo1_Simplified\obj\Debug\net7.0\Demo1_Simplified.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo1_Simplified\obj\Debug\net7.0\Demo1_Simplified.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo1_Simplified\obj\Debug\net7.0\refint\Demo1_Simplified.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo1_Simplified\obj\Debug\net7.0\Demo1_Simplified.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo1_Simplified\obj\Debug\net7.0\Demo1_Simplified.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo1_Simplified\obj\Debug\net7.0\ref\Demo1_Simplified.dll

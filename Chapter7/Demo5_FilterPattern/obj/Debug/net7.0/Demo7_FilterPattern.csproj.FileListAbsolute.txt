@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FilterPattern\obj\Debug\net7.0\Demo7_FilterPattern.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FilterPattern\obj\Debug\net7.0\Demo7_FilterPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FilterPattern\obj\Debug\net7.0\Demo7_FilterPattern.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FilterPattern\obj\Debug\net7.0\Demo7_FilterPattern.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FilterPattern\obj\Debug\net7.0\Demo7_FilterPattern.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FilterPattern\bin\Debug\net7.0\Demo7_FilterPattern.exe
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FilterPattern\bin\Debug\net7.0\Demo7_FilterPattern.deps.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FilterPattern\bin\Debug\net7.0\Demo7_FilterPattern.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FilterPattern\bin\Debug\net7.0\Demo7_FilterPattern.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FilterPattern\bin\Debug\net7.0\Demo7_FilterPattern.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FilterPattern\obj\Debug\net7.0\Demo7_FilterPattern.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FilterPattern\obj\Debug\net7.0\refint\Demo7_FilterPattern.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FilterPattern\obj\Debug\net7.0\Demo7_FilterPattern.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FilterPattern\obj\Debug\net7.0\Demo7_FilterPattern.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo7_FilterPattern\obj\Debug\net7.0\ref\Demo7_FilterPattern.dll

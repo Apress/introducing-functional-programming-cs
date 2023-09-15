@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingExample\bin\Debug\net7.0\Demo2_CurryingExample.exe
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingExample\bin\Debug\net7.0\Demo2_CurryingExample.deps.json
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingExample\bin\Debug\net7.0\Demo2_CurryingExample.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingExample\bin\Debug\net7.0\Demo2_CurryingExample.dll
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingExample\bin\Debug\net7.0\Demo2_CurryingExample.pdb
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingExample\obj\Debug\net7.0\Demo2_CurryingExample.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingExample\obj\Debug\net7.0\Demo2_CurryingExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingExample\obj\Debug\net7.0\Demo2_CurryingExample.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingExample\obj\Debug\net7.0\Demo2_CurryingExample.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingExample\obj\Debug\net7.0\Demo2_CurryingExample.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingExample\obj\Debug\net7.0\Demo2_CurryingExample.dll
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingExample\obj\Debug\net7.0\refint\Demo2_CurryingExample.dll
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingExample\obj\Debug\net7.0\Demo2_CurryingExample.pdb
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingExample\obj\Debug\net7.0\Demo2_CurryingExample.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingExample\obj\Debug\net7.0\ref\Demo2_CurryingExample.dll

@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo2_ExternalImmutability\bin\Debug\net7.0\Demo2_ExternalImmutability.exe
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo2_ExternalImmutability\bin\Debug\net7.0\Demo2_ExternalImmutability.deps.json
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo2_ExternalImmutability\bin\Debug\net7.0\Demo2_ExternalImmutability.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo2_ExternalImmutability\bin\Debug\net7.0\Demo2_ExternalImmutability.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo2_ExternalImmutability\bin\Debug\net7.0\Demo2_ExternalImmutability.pdb
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo2_ExternalImmutability\obj\Debug\net7.0\Demo2_ExternalImmutability.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo2_ExternalImmutability\obj\Debug\net7.0\Demo2_ExternalImmutability.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo2_ExternalImmutability\obj\Debug\net7.0\Demo2_ExternalImmutability.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo2_ExternalImmutability\obj\Debug\net7.0\Demo2_ExternalImmutability.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo2_ExternalImmutability\obj\Debug\net7.0\Demo2_ExternalImmutability.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo2_ExternalImmutability\obj\Debug\net7.0\Demo2_ExternalImmutability.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo2_ExternalImmutability\obj\Debug\net7.0\refint\Demo2_ExternalImmutability.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo2_ExternalImmutability\obj\Debug\net7.0\Demo2_ExternalImmutability.pdb
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo2_ExternalImmutability\obj\Debug\net7.0\Demo2_ExternalImmutability.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo2_ExternalImmutability\obj\Debug\net7.0\ref\Demo2_ExternalImmutability.dll

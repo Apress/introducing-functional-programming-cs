@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo1_WithoutMethodChainingDemo\bin\Debug\net7.0\Demo1_WithoutMethodChainingDemo.exe
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo1_WithoutMethodChainingDemo\bin\Debug\net7.0\Demo1_WithoutMethodChainingDemo.deps.json
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo1_WithoutMethodChainingDemo\bin\Debug\net7.0\Demo1_WithoutMethodChainingDemo.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo1_WithoutMethodChainingDemo\bin\Debug\net7.0\Demo1_WithoutMethodChainingDemo.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo1_WithoutMethodChainingDemo\bin\Debug\net7.0\Demo1_WithoutMethodChainingDemo.pdb
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo1_WithoutMethodChainingDemo\obj\Debug\net7.0\Demo1_WithoutMethodChainingDemo.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo1_WithoutMethodChainingDemo\obj\Debug\net7.0\Demo1_WithoutMethodChainingDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo1_WithoutMethodChainingDemo\obj\Debug\net7.0\Demo1_WithoutMethodChainingDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo1_WithoutMethodChainingDemo\obj\Debug\net7.0\Demo1_WithoutMethodChainingDemo.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo1_WithoutMethodChainingDemo\obj\Debug\net7.0\Demo1_WithoutMethodChainingDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo1_WithoutMethodChainingDemo\obj\Debug\net7.0\Demo1_WithoutMethodChainingDemo.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo1_WithoutMethodChainingDemo\obj\Debug\net7.0\refint\Demo1_WithoutMethodChainingDemo.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo1_WithoutMethodChainingDemo\obj\Debug\net7.0\Demo1_WithoutMethodChainingDemo.pdb
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo1_WithoutMethodChainingDemo\obj\Debug\net7.0\Demo1_WithoutMethodChainingDemo.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo1_WithoutMethodChainingDemo\obj\Debug\net7.0\ref\Demo1_WithoutMethodChainingDemo.dll

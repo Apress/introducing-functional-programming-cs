@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Exercise2.5\bin\Debug\net7.0\Exercise2.5.exe
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Exercise2.5\bin\Debug\net7.0\Exercise2.5.deps.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Exercise2.5\bin\Debug\net7.0\Exercise2.5.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Exercise2.5\bin\Debug\net7.0\Exercise2.5.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Exercise2.5\bin\Debug\net7.0\Exercise2.5.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Exercise2.5\obj\Debug\net7.0\Exercise2.5.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Exercise2.5\obj\Debug\net7.0\Exercise2.5.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Exercise2.5\obj\Debug\net7.0\Exercise2.5.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Exercise2.5\obj\Debug\net7.0\Exercise2.5.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Exercise2.5\obj\Debug\net7.0\Exercise2.5.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Exercise2.5\obj\Debug\net7.0\Exercise2.5.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Exercise2.5\obj\Debug\net7.0\refint\Exercise2.5.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Exercise2.5\obj\Debug\net7.0\Exercise2.5.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Exercise2.5\obj\Debug\net7.0\Exercise2.5.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Exercise2.5\obj\Debug\net7.0\ref\Exercise2.5.dll

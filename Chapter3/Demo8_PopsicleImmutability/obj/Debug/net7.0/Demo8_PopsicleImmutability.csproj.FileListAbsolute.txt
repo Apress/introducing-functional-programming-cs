@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo8_PopsicleImmutability\bin\Debug\net7.0\Demo8_PopsicleImmutability.exe
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo8_PopsicleImmutability\bin\Debug\net7.0\Demo8_PopsicleImmutability.deps.json
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo8_PopsicleImmutability\bin\Debug\net7.0\Demo8_PopsicleImmutability.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo8_PopsicleImmutability\bin\Debug\net7.0\Demo8_PopsicleImmutability.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo8_PopsicleImmutability\bin\Debug\net7.0\Demo8_PopsicleImmutability.pdb
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo8_PopsicleImmutability\obj\Debug\net7.0\Demo8_PopsicleImmutability.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo8_PopsicleImmutability\obj\Debug\net7.0\Demo8_PopsicleImmutability.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo8_PopsicleImmutability\obj\Debug\net7.0\Demo8_PopsicleImmutability.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo8_PopsicleImmutability\obj\Debug\net7.0\Demo8_PopsicleImmutability.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo8_PopsicleImmutability\obj\Debug\net7.0\Demo8_PopsicleImmutability.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo8_PopsicleImmutability\obj\Debug\net7.0\Demo8_PopsicleImmutability.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo8_PopsicleImmutability\obj\Debug\net7.0\refint\Demo8_PopsicleImmutability.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo8_PopsicleImmutability\obj\Debug\net7.0\Demo8_PopsicleImmutability.pdb
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo8_PopsicleImmutability\obj\Debug\net7.0\Demo8_PopsicleImmutability.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo8_PopsicleImmutability\obj\Debug\net7.0\ref\Demo8_PopsicleImmutability.dll

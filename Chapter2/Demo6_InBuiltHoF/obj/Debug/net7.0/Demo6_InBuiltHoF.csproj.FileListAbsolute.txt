@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo6_InBuiltHoF\obj\Debug\net7.0\Demo6_InBuiltHoF.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo6_InBuiltHoF\obj\Debug\net7.0\Demo6_InBuiltHoF.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo6_InBuiltHoF\obj\Debug\net7.0\Demo6_InBuiltHoF.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo6_InBuiltHoF\obj\Debug\net7.0\Demo6_InBuiltHoF.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo6_InBuiltHoF\obj\Debug\net7.0\Demo6_InBuiltHoF.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo6_InBuiltHoF\bin\Debug\net7.0\Demo6_InBuiltHoF.exe
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo6_InBuiltHoF\bin\Debug\net7.0\Demo6_InBuiltHoF.deps.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo6_InBuiltHoF\bin\Debug\net7.0\Demo6_InBuiltHoF.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo6_InBuiltHoF\bin\Debug\net7.0\Demo6_InBuiltHoF.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo6_InBuiltHoF\bin\Debug\net7.0\Demo6_InBuiltHoF.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo6_InBuiltHoF\obj\Debug\net7.0\Demo6_InBuiltHoF.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo6_InBuiltHoF\obj\Debug\net7.0\refint\Demo6_InBuiltHoF.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo6_InBuiltHoF\obj\Debug\net7.0\Demo6_InBuiltHoF.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo6_InBuiltHoF\obj\Debug\net7.0\Demo6_InBuiltHoF.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo6_InBuiltHoF\obj\Debug\net7.0\ref\Demo6_InBuiltHoF.dll

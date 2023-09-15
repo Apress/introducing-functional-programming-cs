@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo6_DeclarativeProgramming\bin\Debug\net7.0\Demo6_DeclarativeProgramming.exe
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo6_DeclarativeProgramming\bin\Debug\net7.0\Demo6_DeclarativeProgramming.deps.json
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo6_DeclarativeProgramming\bin\Debug\net7.0\Demo6_DeclarativeProgramming.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo6_DeclarativeProgramming\bin\Debug\net7.0\Demo6_DeclarativeProgramming.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo6_DeclarativeProgramming\bin\Debug\net7.0\Demo6_DeclarativeProgramming.pdb
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo6_DeclarativeProgramming\obj\Debug\net7.0\Demo6_DeclarativeProgramming.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo6_DeclarativeProgramming\obj\Debug\net7.0\Demo6_DeclarativeProgramming.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo6_DeclarativeProgramming\obj\Debug\net7.0\Demo6_DeclarativeProgramming.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo6_DeclarativeProgramming\obj\Debug\net7.0\Demo6_DeclarativeProgramming.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo6_DeclarativeProgramming\obj\Debug\net7.0\Demo6_DeclarativeProgramming.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo6_DeclarativeProgramming\obj\Debug\net7.0\Demo6_DeclarativeProgramming.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo6_DeclarativeProgramming\obj\Debug\net7.0\refint\Demo6_DeclarativeProgramming.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo6_DeclarativeProgramming\obj\Debug\net7.0\Demo6_DeclarativeProgramming.pdb
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo6_DeclarativeProgramming\obj\Debug\net7.0\Demo6_DeclarativeProgramming.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo6_DeclarativeProgramming\obj\Debug\net7.0\ref\Demo6_DeclarativeProgramming.dll

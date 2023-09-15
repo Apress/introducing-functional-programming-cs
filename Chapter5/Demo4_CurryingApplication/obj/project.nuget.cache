@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3fmwUze5giOmbmKgQBOaP2AKxXWGwi+ltyNKLhrLNvD5fm5FxMikhVHE7SSPweN0ZQQ7dGX9cIrubFJBnfRTYg==",
+  "success": true,
+  "projectFilePath": "E:\\MyPrograms\\FunctionalC#\\CurryingSolution\\Demo4_CurryingApplication\\Demo4_CurryingApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vaskaran Sarcar\\.nuget\\packages\\curryfy\\3.1.0\\curryfy.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

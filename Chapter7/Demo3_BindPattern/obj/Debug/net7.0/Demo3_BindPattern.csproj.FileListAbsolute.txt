@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo3_BindPattern\bin\Debug\net7.0\Demo3_BindPattern.exe
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo3_BindPattern\bin\Debug\net7.0\Demo3_BindPattern.deps.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo3_BindPattern\bin\Debug\net7.0\Demo3_BindPattern.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo3_BindPattern\bin\Debug\net7.0\Demo3_BindPattern.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo3_BindPattern\bin\Debug\net7.0\Demo3_BindPattern.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo3_BindPattern\obj\Debug\net7.0\Demo3_BindPattern.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo3_BindPattern\obj\Debug\net7.0\Demo3_BindPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo3_BindPattern\obj\Debug\net7.0\Demo3_BindPattern.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo3_BindPattern\obj\Debug\net7.0\Demo3_BindPattern.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo3_BindPattern\obj\Debug\net7.0\Demo3_BindPattern.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo3_BindPattern\obj\Debug\net7.0\Demo3_BindPattern.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo3_BindPattern\obj\Debug\net7.0\refint\Demo3_BindPattern.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo3_BindPattern\obj\Debug\net7.0\Demo3_BindPattern.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo3_BindPattern\obj\Debug\net7.0\Demo3_BindPattern.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo3_BindPattern\obj\Debug\net7.0\ref\Demo3_BindPattern.dll

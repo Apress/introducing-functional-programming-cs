@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LinqExamples\bin\Debug\net7.0\LinqExamples.exe
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LinqExamples\bin\Debug\net7.0\LinqExamples.deps.json
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LinqExamples\bin\Debug\net7.0\LinqExamples.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LinqExamples\bin\Debug\net7.0\LinqExamples.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LinqExamples\bin\Debug\net7.0\LinqExamples.pdb
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LinqExamples\obj\Debug\net7.0\LinqExamples.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LinqExamples\obj\Debug\net7.0\LinqExamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LinqExamples\obj\Debug\net7.0\LinqExamples.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LinqExamples\obj\Debug\net7.0\LinqExamples.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LinqExamples\obj\Debug\net7.0\LinqExamples.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LinqExamples\obj\Debug\net7.0\LinqExamples.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LinqExamples\obj\Debug\net7.0\refint\LinqExamples.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LinqExamples\obj\Debug\net7.0\LinqExamples.pdb
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LinqExamples\obj\Debug\net7.0\LinqExamples.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LinqExamples\obj\Debug\net7.0\ref\LinqExamples.dll

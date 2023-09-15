@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo1_Mutability\bin\Debug\net7.0\Demo1_Mutability.exe
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo1_Mutability\bin\Debug\net7.0\Demo1_Mutability.deps.json
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo1_Mutability\bin\Debug\net7.0\Demo1_Mutability.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo1_Mutability\bin\Debug\net7.0\Demo1_Mutability.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo1_Mutability\bin\Debug\net7.0\Demo1_Mutability.pdb
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo1_Mutability\obj\Debug\net7.0\Demo1_Mutability.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo1_Mutability\obj\Debug\net7.0\Demo1_Mutability.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo1_Mutability\obj\Debug\net7.0\Demo1_Mutability.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo1_Mutability\obj\Debug\net7.0\Demo1_Mutability.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo1_Mutability\obj\Debug\net7.0\Demo1_Mutability.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo1_Mutability\obj\Debug\net7.0\Demo1_Mutability.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo1_Mutability\obj\Debug\net7.0\refint\Demo1_Mutability.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo1_Mutability\obj\Debug\net7.0\Demo1_Mutability.pdb
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo1_Mutability\obj\Debug\net7.0\Demo1_Mutability.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo1_Mutability\obj\Debug\net7.0\ref\Demo1_Mutability.dll

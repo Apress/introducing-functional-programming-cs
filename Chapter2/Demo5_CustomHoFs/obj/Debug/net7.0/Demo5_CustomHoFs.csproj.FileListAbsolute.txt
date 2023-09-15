@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo5_CustomHoFs\bin\Debug\net7.0\Demo5_CustomHoFs.exe
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo5_CustomHoFs\bin\Debug\net7.0\Demo5_CustomHoFs.deps.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo5_CustomHoFs\bin\Debug\net7.0\Demo5_CustomHoFs.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo5_CustomHoFs\bin\Debug\net7.0\Demo5_CustomHoFs.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo5_CustomHoFs\bin\Debug\net7.0\Demo5_CustomHoFs.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo5_CustomHoFs\obj\Debug\net7.0\Demo5_CustomHoFs.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo5_CustomHoFs\obj\Debug\net7.0\Demo5_CustomHoFs.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo5_CustomHoFs\obj\Debug\net7.0\Demo5_CustomHoFs.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo5_CustomHoFs\obj\Debug\net7.0\Demo5_CustomHoFs.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo5_CustomHoFs\obj\Debug\net7.0\Demo5_CustomHoFs.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo5_CustomHoFs\obj\Debug\net7.0\Demo5_CustomHoFs.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo5_CustomHoFs\obj\Debug\net7.0\refint\Demo5_CustomHoFs.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo5_CustomHoFs\obj\Debug\net7.0\Demo5_CustomHoFs.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo5_CustomHoFs\obj\Debug\net7.0\Demo5_CustomHoFs.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo5_CustomHoFs\obj\Debug\net7.0\ref\Demo5_CustomHoFs.dll

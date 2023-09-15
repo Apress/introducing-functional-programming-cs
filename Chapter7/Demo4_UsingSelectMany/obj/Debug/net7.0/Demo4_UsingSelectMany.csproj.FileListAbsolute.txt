@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo4_UsingSelectMany\obj\Debug\net7.0\Demo4_UsingSelectMany.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo4_UsingSelectMany\obj\Debug\net7.0\Demo4_UsingSelectMany.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo4_UsingSelectMany\obj\Debug\net7.0\Demo4_UsingSelectMany.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo4_UsingSelectMany\obj\Debug\net7.0\Demo4_UsingSelectMany.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo4_UsingSelectMany\obj\Debug\net7.0\Demo4_UsingSelectMany.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo4_UsingSelectMany\bin\Debug\net7.0\Demo4_UsingSelectMany.exe
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo4_UsingSelectMany\bin\Debug\net7.0\Demo4_UsingSelectMany.deps.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo4_UsingSelectMany\bin\Debug\net7.0\Demo4_UsingSelectMany.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo4_UsingSelectMany\bin\Debug\net7.0\Demo4_UsingSelectMany.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo4_UsingSelectMany\bin\Debug\net7.0\Demo4_UsingSelectMany.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo4_UsingSelectMany\obj\Debug\net7.0\Demo4_UsingSelectMany.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo4_UsingSelectMany\obj\Debug\net7.0\refint\Demo4_UsingSelectMany.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo4_UsingSelectMany\obj\Debug\net7.0\Demo4_UsingSelectMany.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo4_UsingSelectMany\obj\Debug\net7.0\Demo4_UsingSelectMany.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo4_UsingSelectMany\obj\Debug\net7.0\ref\Demo4_UsingSelectMany.dll

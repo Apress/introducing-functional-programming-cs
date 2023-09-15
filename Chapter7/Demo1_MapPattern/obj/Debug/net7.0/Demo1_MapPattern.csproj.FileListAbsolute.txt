@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo1_MapPattern\bin\Debug\net7.0\Demo1_MapPattern.exe
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo1_MapPattern\bin\Debug\net7.0\Demo1_MapPattern.deps.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo1_MapPattern\bin\Debug\net7.0\Demo1_MapPattern.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo1_MapPattern\bin\Debug\net7.0\Demo1_MapPattern.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo1_MapPattern\bin\Debug\net7.0\Demo1_MapPattern.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo1_MapPattern\obj\Debug\net7.0\Demo1_MapPattern.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo1_MapPattern\obj\Debug\net7.0\Demo1_MapPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo1_MapPattern\obj\Debug\net7.0\Demo1_MapPattern.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo1_MapPattern\obj\Debug\net7.0\Demo1_MapPattern.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo1_MapPattern\obj\Debug\net7.0\Demo1_MapPattern.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo1_MapPattern\obj\Debug\net7.0\Demo1_MapPattern.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo1_MapPattern\obj\Debug\net7.0\refint\Demo1_MapPattern.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo1_MapPattern\obj\Debug\net7.0\Demo1_MapPattern.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo1_MapPattern\obj\Debug\net7.0\Demo1_MapPattern.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo1_MapPattern\obj\Debug\net7.0\ref\Demo1_MapPattern.dll

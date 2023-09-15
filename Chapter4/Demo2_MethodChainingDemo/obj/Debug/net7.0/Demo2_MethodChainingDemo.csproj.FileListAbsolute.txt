@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo2_MethodChainingDemo\bin\Debug\net7.0\Demo2_MethodChainingDemo.exe
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo2_MethodChainingDemo\bin\Debug\net7.0\Demo2_MethodChainingDemo.deps.json
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo2_MethodChainingDemo\bin\Debug\net7.0\Demo2_MethodChainingDemo.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo2_MethodChainingDemo\bin\Debug\net7.0\Demo2_MethodChainingDemo.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo2_MethodChainingDemo\bin\Debug\net7.0\Demo2_MethodChainingDemo.pdb
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo2_MethodChainingDemo\obj\Debug\net7.0\Demo2_MethodChainingDemo.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo2_MethodChainingDemo\obj\Debug\net7.0\Demo2_MethodChainingDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo2_MethodChainingDemo\obj\Debug\net7.0\Demo2_MethodChainingDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo2_MethodChainingDemo\obj\Debug\net7.0\Demo2_MethodChainingDemo.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo2_MethodChainingDemo\obj\Debug\net7.0\Demo2_MethodChainingDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo2_MethodChainingDemo\obj\Debug\net7.0\Demo2_MethodChainingDemo.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo2_MethodChainingDemo\obj\Debug\net7.0\refint\Demo2_MethodChainingDemo.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo2_MethodChainingDemo\obj\Debug\net7.0\Demo2_MethodChainingDemo.pdb
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo2_MethodChainingDemo\obj\Debug\net7.0\Demo2_MethodChainingDemo.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo2_MethodChainingDemo\obj\Debug\net7.0\ref\Demo2_MethodChainingDemo.dll

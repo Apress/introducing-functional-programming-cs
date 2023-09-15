@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingUsingGenericMethods\bin\Debug\net7.0\Demo2_CurryingUsingGenericMethods.exe
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingUsingGenericMethods\bin\Debug\net7.0\Demo2_CurryingUsingGenericMethods.deps.json
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingUsingGenericMethods\bin\Debug\net7.0\Demo2_CurryingUsingGenericMethods.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingUsingGenericMethods\bin\Debug\net7.0\Demo2_CurryingUsingGenericMethods.dll
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingUsingGenericMethods\bin\Debug\net7.0\Demo2_CurryingUsingGenericMethods.pdb
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingUsingGenericMethods\obj\Debug\net7.0\Demo2_CurryingUsingGenericMethods.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingUsingGenericMethods\obj\Debug\net7.0\Demo2_CurryingUsingGenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingUsingGenericMethods\obj\Debug\net7.0\Demo2_CurryingUsingGenericMethods.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingUsingGenericMethods\obj\Debug\net7.0\Demo2_CurryingUsingGenericMethods.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingUsingGenericMethods\obj\Debug\net7.0\Demo2_CurryingUsingGenericMethods.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingUsingGenericMethods\obj\Debug\net7.0\Demo2_CurryingUsingGenericMethods.dll
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingUsingGenericMethods\obj\Debug\net7.0\refint\Demo2_CurryingUsingGenericMethods.dll
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingUsingGenericMethods\obj\Debug\net7.0\Demo2_CurryingUsingGenericMethods.pdb
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingUsingGenericMethods\obj\Debug\net7.0\Demo2_CurryingUsingGenericMethods.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo2_CurryingUsingGenericMethods\obj\Debug\net7.0\ref\Demo2_CurryingUsingGenericMethods.dll

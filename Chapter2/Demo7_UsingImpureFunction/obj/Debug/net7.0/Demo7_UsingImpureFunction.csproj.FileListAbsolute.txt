@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo7_UsingImpureFunction\bin\Debug\net7.0\Demo7_UsingImpureFunction.exe
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo7_UsingImpureFunction\bin\Debug\net7.0\Demo7_UsingImpureFunction.deps.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo7_UsingImpureFunction\bin\Debug\net7.0\Demo7_UsingImpureFunction.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo7_UsingImpureFunction\bin\Debug\net7.0\Demo7_UsingImpureFunction.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo7_UsingImpureFunction\bin\Debug\net7.0\Demo7_UsingImpureFunction.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo7_UsingImpureFunction\obj\Debug\net7.0\Demo7_UsingImpureFunction.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo7_UsingImpureFunction\obj\Debug\net7.0\Demo7_UsingImpureFunction.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo7_UsingImpureFunction\obj\Debug\net7.0\Demo7_UsingImpureFunction.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo7_UsingImpureFunction\obj\Debug\net7.0\Demo7_UsingImpureFunction.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo7_UsingImpureFunction\obj\Debug\net7.0\Demo7_UsingImpureFunction.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo7_UsingImpureFunction\obj\Debug\net7.0\Demo7_UsingImpureFunction.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo7_UsingImpureFunction\obj\Debug\net7.0\refint\Demo7_UsingImpureFunction.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo7_UsingImpureFunction\obj\Debug\net7.0\Demo7_UsingImpureFunction.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo7_UsingImpureFunction\obj\Debug\net7.0\Demo7_UsingImpureFunction.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo7_UsingImpureFunction\obj\Debug\net7.0\ref\Demo7_UsingImpureFunction.dll

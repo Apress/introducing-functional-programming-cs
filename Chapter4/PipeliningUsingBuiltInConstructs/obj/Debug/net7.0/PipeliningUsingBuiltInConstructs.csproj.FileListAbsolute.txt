@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningUsingBuiltInConstructs\bin\Debug\net7.0\PipeliningUsingBuiltInConstructs.exe
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningUsingBuiltInConstructs\bin\Debug\net7.0\PipeliningUsingBuiltInConstructs.deps.json
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningUsingBuiltInConstructs\bin\Debug\net7.0\PipeliningUsingBuiltInConstructs.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningUsingBuiltInConstructs\bin\Debug\net7.0\PipeliningUsingBuiltInConstructs.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningUsingBuiltInConstructs\bin\Debug\net7.0\PipeliningUsingBuiltInConstructs.pdb
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningUsingBuiltInConstructs\obj\Debug\net7.0\PipeliningUsingBuiltInConstructs.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningUsingBuiltInConstructs\obj\Debug\net7.0\PipeliningUsingBuiltInConstructs.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningUsingBuiltInConstructs\obj\Debug\net7.0\PipeliningUsingBuiltInConstructs.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningUsingBuiltInConstructs\obj\Debug\net7.0\PipeliningUsingBuiltInConstructs.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningUsingBuiltInConstructs\obj\Debug\net7.0\PipeliningUsingBuiltInConstructs.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningUsingBuiltInConstructs\obj\Debug\net7.0\PipeliningUsingBuiltInConstructs.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningUsingBuiltInConstructs\obj\Debug\net7.0\refint\PipeliningUsingBuiltInConstructs.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningUsingBuiltInConstructs\obj\Debug\net7.0\PipeliningUsingBuiltInConstructs.pdb
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningUsingBuiltInConstructs\obj\Debug\net7.0\PipeliningUsingBuiltInConstructs.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\PipeliningUsingBuiltInConstructs\obj\Debug\net7.0\ref\PipeliningUsingBuiltInConstructs.dll

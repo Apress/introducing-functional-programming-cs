@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\CurryingSolution\Exercise5.1\bin\Debug\net7.0\Exercise5.1.exe
+E:\MyPrograms\FunctionalC#\CurryingSolution\Exercise5.1\bin\Debug\net7.0\Exercise5.1.deps.json
+E:\MyPrograms\FunctionalC#\CurryingSolution\Exercise5.1\bin\Debug\net7.0\Exercise5.1.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\CurryingSolution\Exercise5.1\bin\Debug\net7.0\Exercise5.1.dll
+E:\MyPrograms\FunctionalC#\CurryingSolution\Exercise5.1\bin\Debug\net7.0\Exercise5.1.pdb
+E:\MyPrograms\FunctionalC#\CurryingSolution\Exercise5.1\obj\Debug\net7.0\Exercise5.1.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Exercise5.1\obj\Debug\net7.0\Exercise5.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\CurryingSolution\Exercise5.1\obj\Debug\net7.0\Exercise5.1.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Exercise5.1\obj\Debug\net7.0\Exercise5.1.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\CurryingSolution\Exercise5.1\obj\Debug\net7.0\Exercise5.1.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Exercise5.1\obj\Debug\net7.0\Exercise5.1.dll
+E:\MyPrograms\FunctionalC#\CurryingSolution\Exercise5.1\obj\Debug\net7.0\refint\Exercise5.1.dll
+E:\MyPrograms\FunctionalC#\CurryingSolution\Exercise5.1\obj\Debug\net7.0\Exercise5.1.pdb
+E:\MyPrograms\FunctionalC#\CurryingSolution\Exercise5.1\obj\Debug\net7.0\Exercise5.1.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Exercise5.1\obj\Debug\net7.0\ref\Exercise5.1.dll

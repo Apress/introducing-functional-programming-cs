@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LocalFunctions\bin\Debug\net7.0\LocalFunctions.exe
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LocalFunctions\bin\Debug\net7.0\LocalFunctions.deps.json
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LocalFunctions\bin\Debug\net7.0\LocalFunctions.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LocalFunctions\bin\Debug\net7.0\LocalFunctions.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LocalFunctions\bin\Debug\net7.0\LocalFunctions.pdb
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LocalFunctions\obj\Debug\net7.0\LocalFunctions.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LocalFunctions\obj\Debug\net7.0\LocalFunctions.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LocalFunctions\obj\Debug\net7.0\LocalFunctions.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LocalFunctions\obj\Debug\net7.0\LocalFunctions.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LocalFunctions\obj\Debug\net7.0\LocalFunctions.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LocalFunctions\obj\Debug\net7.0\LocalFunctions.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LocalFunctions\obj\Debug\net7.0\refint\LocalFunctions.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LocalFunctions\obj\Debug\net7.0\LocalFunctions.pdb
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LocalFunctions\obj\Debug\net7.0\LocalFunctions.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LocalFunctions\obj\Debug\net7.0\ref\LocalFunctions.dll

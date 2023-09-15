@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo1_WithoutCurrying\bin\Debug\net7.0\Demo1_WithoutCurrying.exe
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo1_WithoutCurrying\bin\Debug\net7.0\Demo1_WithoutCurrying.deps.json
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo1_WithoutCurrying\bin\Debug\net7.0\Demo1_WithoutCurrying.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo1_WithoutCurrying\bin\Debug\net7.0\Demo1_WithoutCurrying.dll
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo1_WithoutCurrying\bin\Debug\net7.0\Demo1_WithoutCurrying.pdb
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo1_WithoutCurrying\obj\Debug\net7.0\Demo1_WithoutCurrying.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo1_WithoutCurrying\obj\Debug\net7.0\Demo1_WithoutCurrying.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo1_WithoutCurrying\obj\Debug\net7.0\Demo1_WithoutCurrying.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo1_WithoutCurrying\obj\Debug\net7.0\Demo1_WithoutCurrying.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo1_WithoutCurrying\obj\Debug\net7.0\Demo1_WithoutCurrying.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo1_WithoutCurrying\obj\Debug\net7.0\Demo1_WithoutCurrying.dll
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo1_WithoutCurrying\obj\Debug\net7.0\refint\Demo1_WithoutCurrying.dll
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo1_WithoutCurrying\obj\Debug\net7.0\Demo1_WithoutCurrying.pdb
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo1_WithoutCurrying\obj\Debug\net7.0\Demo1_WithoutCurrying.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo1_WithoutCurrying\obj\Debug\net7.0\ref\Demo1_WithoutCurrying.dll

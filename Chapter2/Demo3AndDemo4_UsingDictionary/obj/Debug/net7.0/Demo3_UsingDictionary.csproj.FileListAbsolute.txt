@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3_UsingDictionary\bin\Debug\net7.0\Demo3_UsingDictionary.exe
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3_UsingDictionary\bin\Debug\net7.0\Demo3_UsingDictionary.deps.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3_UsingDictionary\bin\Debug\net7.0\Demo3_UsingDictionary.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3_UsingDictionary\bin\Debug\net7.0\Demo3_UsingDictionary.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3_UsingDictionary\bin\Debug\net7.0\Demo3_UsingDictionary.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3_UsingDictionary\obj\Debug\net7.0\Demo3_UsingDictionary.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3_UsingDictionary\obj\Debug\net7.0\Demo3_UsingDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3_UsingDictionary\obj\Debug\net7.0\Demo3_UsingDictionary.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3_UsingDictionary\obj\Debug\net7.0\Demo3_UsingDictionary.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3_UsingDictionary\obj\Debug\net7.0\Demo3_UsingDictionary.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3_UsingDictionary\obj\Debug\net7.0\Demo3_UsingDictionary.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3_UsingDictionary\obj\Debug\net7.0\refint\Demo3_UsingDictionary.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3_UsingDictionary\obj\Debug\net7.0\Demo3_UsingDictionary.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3_UsingDictionary\obj\Debug\net7.0\Demo3_UsingDictionary.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3_UsingDictionary\obj\Debug\net7.0\ref\Demo3_UsingDictionary.dll

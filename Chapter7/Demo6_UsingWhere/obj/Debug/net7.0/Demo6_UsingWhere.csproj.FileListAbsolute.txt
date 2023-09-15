@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo6_UsingWhere\bin\Debug\net7.0\Demo6_UsingWhere.exe
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo6_UsingWhere\bin\Debug\net7.0\Demo6_UsingWhere.deps.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo6_UsingWhere\bin\Debug\net7.0\Demo6_UsingWhere.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo6_UsingWhere\bin\Debug\net7.0\Demo6_UsingWhere.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo6_UsingWhere\bin\Debug\net7.0\Demo6_UsingWhere.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo6_UsingWhere\obj\Debug\net7.0\Demo6_UsingWhere.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo6_UsingWhere\obj\Debug\net7.0\Demo6_UsingWhere.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo6_UsingWhere\obj\Debug\net7.0\Demo6_UsingWhere.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo6_UsingWhere\obj\Debug\net7.0\Demo6_UsingWhere.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo6_UsingWhere\obj\Debug\net7.0\Demo6_UsingWhere.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo6_UsingWhere\obj\Debug\net7.0\Demo6_UsingWhere.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo6_UsingWhere\obj\Debug\net7.0\refint\Demo6_UsingWhere.dll
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo6_UsingWhere\obj\Debug\net7.0\Demo6_UsingWhere.pdb
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo6_UsingWhere\obj\Debug\net7.0\Demo6_UsingWhere.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\FunctionalPatternsSolution\Demo6_UsingWhere\obj\Debug\net7.0\ref\Demo6_UsingWhere.dll

@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo1_PassingFunctions\bin\Debug\net7.0\Demo1_PassingFunctions.exe
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo1_PassingFunctions\bin\Debug\net7.0\Demo1_PassingFunctions.deps.json
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo1_PassingFunctions\bin\Debug\net7.0\Demo1_PassingFunctions.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo1_PassingFunctions\bin\Debug\net7.0\Demo1_PassingFunctions.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo1_PassingFunctions\bin\Debug\net7.0\Demo1_PassingFunctions.pdb
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo1_PassingFunctions\obj\Debug\net7.0\Demo1_PassingFunctions.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo1_PassingFunctions\obj\Debug\net7.0\Demo1_PassingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo1_PassingFunctions\obj\Debug\net7.0\Demo1_PassingFunctions.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo1_PassingFunctions\obj\Debug\net7.0\Demo1_PassingFunctions.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo1_PassingFunctions\obj\Debug\net7.0\Demo1_PassingFunctions.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo1_PassingFunctions\obj\Debug\net7.0\Demo1_PassingFunctions.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo1_PassingFunctions\obj\Debug\net7.0\refint\Demo1_PassingFunctions.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo1_PassingFunctions\obj\Debug\net7.0\Demo1_PassingFunctions.pdb
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo1_PassingFunctions\obj\Debug\net7.0\Demo1_PassingFunctions.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo1_PassingFunctions\obj\Debug\net7.0\ref\Demo1_PassingFunctions.dll

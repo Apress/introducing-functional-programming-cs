@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3AndDemo4_UsingDictionary\bin\Debug\net7.0\Demo3AndDemo4_UsingDictionary.exe
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3AndDemo4_UsingDictionary\bin\Debug\net7.0\Demo3AndDemo4_UsingDictionary.deps.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3AndDemo4_UsingDictionary\bin\Debug\net7.0\Demo3AndDemo4_UsingDictionary.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3AndDemo4_UsingDictionary\bin\Debug\net7.0\Demo3AndDemo4_UsingDictionary.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3AndDemo4_UsingDictionary\bin\Debug\net7.0\Demo3AndDemo4_UsingDictionary.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3AndDemo4_UsingDictionary\obj\Debug\net7.0\Demo3AndDemo4_UsingDictionary.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3AndDemo4_UsingDictionary\obj\Debug\net7.0\Demo3AndDemo4_UsingDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3AndDemo4_UsingDictionary\obj\Debug\net7.0\Demo3AndDemo4_UsingDictionary.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3AndDemo4_UsingDictionary\obj\Debug\net7.0\Demo3AndDemo4_UsingDictionary.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3AndDemo4_UsingDictionary\obj\Debug\net7.0\Demo3AndDemo4_UsingDictionary.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3AndDemo4_UsingDictionary\obj\Debug\net7.0\Demo3AndDemo4_UsingDictionary.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3AndDemo4_UsingDictionary\obj\Debug\net7.0\refint\Demo3AndDemo4_UsingDictionary.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3AndDemo4_UsingDictionary\obj\Debug\net7.0\Demo3AndDemo4_UsingDictionary.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3AndDemo4_UsingDictionary\obj\Debug\net7.0\Demo3AndDemo4_UsingDictionary.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\Demo3AndDemo4_UsingDictionary\obj\Debug\net7.0\ref\Demo3AndDemo4_UsingDictionary.dll

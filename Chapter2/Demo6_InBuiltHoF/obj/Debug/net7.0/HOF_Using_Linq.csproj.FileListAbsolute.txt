@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter2Solution\HOF_Using_Linq\bin\Debug\net7.0\HOF_Using_Linq.exe
+E:\MyPrograms\FunctionalC#\Chapter2Solution\HOF_Using_Linq\bin\Debug\net7.0\HOF_Using_Linq.deps.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\HOF_Using_Linq\bin\Debug\net7.0\HOF_Using_Linq.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter2Solution\HOF_Using_Linq\bin\Debug\net7.0\HOF_Using_Linq.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\HOF_Using_Linq\bin\Debug\net7.0\HOF_Using_Linq.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\HOF_Using_Linq\obj\Debug\net7.0\HOF_Using_Linq.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\HOF_Using_Linq\obj\Debug\net7.0\HOF_Using_Linq.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter2Solution\HOF_Using_Linq\obj\Debug\net7.0\HOF_Using_Linq.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\HOF_Using_Linq\obj\Debug\net7.0\HOF_Using_Linq.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter2Solution\HOF_Using_Linq\obj\Debug\net7.0\HOF_Using_Linq.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\HOF_Using_Linq\obj\Debug\net7.0\HOF_Using_Linq.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\HOF_Using_Linq\obj\Debug\net7.0\refint\HOF_Using_Linq.dll
+E:\MyPrograms\FunctionalC#\Chapter2Solution\HOF_Using_Linq\obj\Debug\net7.0\HOF_Using_Linq.pdb
+E:\MyPrograms\FunctionalC#\Chapter2Solution\HOF_Using_Linq\obj\Debug\net7.0\HOF_Using_Linq.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter2Solution\HOF_Using_Linq\obj\Debug\net7.0\ref\HOF_Using_Linq.dll

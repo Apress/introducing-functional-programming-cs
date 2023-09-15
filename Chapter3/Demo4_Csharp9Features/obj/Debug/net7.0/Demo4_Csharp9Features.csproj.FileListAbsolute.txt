@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo4_Csharp9Features\bin\Debug\net7.0\Demo4_Csharp9Features.exe
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo4_Csharp9Features\bin\Debug\net7.0\Demo4_Csharp9Features.deps.json
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo4_Csharp9Features\bin\Debug\net7.0\Demo4_Csharp9Features.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo4_Csharp9Features\bin\Debug\net7.0\Demo4_Csharp9Features.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo4_Csharp9Features\bin\Debug\net7.0\Demo4_Csharp9Features.pdb
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo4_Csharp9Features\obj\Debug\net7.0\Demo4_Csharp9Features.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo4_Csharp9Features\obj\Debug\net7.0\Demo4_Csharp9Features.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo4_Csharp9Features\obj\Debug\net7.0\Demo4_Csharp9Features.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo4_Csharp9Features\obj\Debug\net7.0\Demo4_Csharp9Features.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo4_Csharp9Features\obj\Debug\net7.0\Demo4_Csharp9Features.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo4_Csharp9Features\obj\Debug\net7.0\Demo4_Csharp9Features.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo4_Csharp9Features\obj\Debug\net7.0\refint\Demo4_Csharp9Features.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo4_Csharp9Features\obj\Debug\net7.0\Demo4_Csharp9Features.pdb
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo4_Csharp9Features\obj\Debug\net7.0\Demo4_Csharp9Features.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Demo4_Csharp9Features\obj\Debug\net7.0\ref\Demo4_Csharp9Features.dll

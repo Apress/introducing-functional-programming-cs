@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo2_DestructiveUpdates\bin\Debug\net7.0\Demo2_DestructiveUpdates.exe
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo2_DestructiveUpdates\bin\Debug\net7.0\Demo2_DestructiveUpdates.deps.json
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo2_DestructiveUpdates\bin\Debug\net7.0\Demo2_DestructiveUpdates.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo2_DestructiveUpdates\bin\Debug\net7.0\Demo2_DestructiveUpdates.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo2_DestructiveUpdates\bin\Debug\net7.0\Demo2_DestructiveUpdates.pdb
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo2_DestructiveUpdates\obj\Debug\net7.0\Demo2_DestructiveUpdates.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo2_DestructiveUpdates\obj\Debug\net7.0\Demo2_DestructiveUpdates.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo2_DestructiveUpdates\obj\Debug\net7.0\Demo2_DestructiveUpdates.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo2_DestructiveUpdates\obj\Debug\net7.0\Demo2_DestructiveUpdates.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo2_DestructiveUpdates\obj\Debug\net7.0\Demo2_DestructiveUpdates.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo2_DestructiveUpdates\obj\Debug\net7.0\Demo2_DestructiveUpdates.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo2_DestructiveUpdates\obj\Debug\net7.0\refint\Demo2_DestructiveUpdates.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo2_DestructiveUpdates\obj\Debug\net7.0\Demo2_DestructiveUpdates.pdb
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo2_DestructiveUpdates\obj\Debug\net7.0\Demo2_DestructiveUpdates.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo2_DestructiveUpdates\obj\Debug\net7.0\ref\Demo2_DestructiveUpdates.dll

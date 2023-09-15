@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Exercise3.5\bin\Debug\net7.0\Exercise3.5.exe
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Exercise3.5\bin\Debug\net7.0\Exercise3.5.deps.json
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Exercise3.5\bin\Debug\net7.0\Exercise3.5.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Exercise3.5\bin\Debug\net7.0\Exercise3.5.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Exercise3.5\bin\Debug\net7.0\Exercise3.5.pdb
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Exercise3.5\obj\Debug\net7.0\Exercise3.5.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Exercise3.5\obj\Debug\net7.0\Exercise3.5.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Exercise3.5\obj\Debug\net7.0\Exercise3.5.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Exercise3.5\obj\Debug\net7.0\Exercise3.5.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Exercise3.5\obj\Debug\net7.0\Exercise3.5.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Exercise3.5\obj\Debug\net7.0\Exercise3.5.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Exercise3.5\obj\Debug\net7.0\refint\Exercise3.5.dll
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Exercise3.5\obj\Debug\net7.0\Exercise3.5.pdb
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Exercise3.5\obj\Debug\net7.0\Exercise3.5.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\UnderstandingImmutabilitySolution\Exercise3.5\obj\Debug\net7.0\ref\Exercise3.5.dll

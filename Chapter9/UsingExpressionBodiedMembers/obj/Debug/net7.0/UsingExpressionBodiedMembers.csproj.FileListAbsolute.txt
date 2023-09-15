@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\UsingExpressionBodiedMembers\bin\Debug\net7.0\UsingExpressionBodiedMembers.exe
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\UsingExpressionBodiedMembers\bin\Debug\net7.0\UsingExpressionBodiedMembers.deps.json
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\UsingExpressionBodiedMembers\bin\Debug\net7.0\UsingExpressionBodiedMembers.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\UsingExpressionBodiedMembers\bin\Debug\net7.0\UsingExpressionBodiedMembers.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\UsingExpressionBodiedMembers\bin\Debug\net7.0\UsingExpressionBodiedMembers.pdb
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\UsingExpressionBodiedMembers\obj\Debug\net7.0\UsingExpressionBodiedMembers.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\UsingExpressionBodiedMembers\obj\Debug\net7.0\UsingExpressionBodiedMembers.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\UsingExpressionBodiedMembers\obj\Debug\net7.0\UsingExpressionBodiedMembers.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\UsingExpressionBodiedMembers\obj\Debug\net7.0\UsingExpressionBodiedMembers.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\UsingExpressionBodiedMembers\obj\Debug\net7.0\UsingExpressionBodiedMembers.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\UsingExpressionBodiedMembers\obj\Debug\net7.0\UsingExpressionBodiedMembers.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\UsingExpressionBodiedMembers\obj\Debug\net7.0\refint\UsingExpressionBodiedMembers.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\UsingExpressionBodiedMembers\obj\Debug\net7.0\UsingExpressionBodiedMembers.pdb
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\UsingExpressionBodiedMembers\obj\Debug\net7.0\UsingExpressionBodiedMembers.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\UsingExpressionBodiedMembers\obj\Debug\net7.0\ref\UsingExpressionBodiedMembers.dll

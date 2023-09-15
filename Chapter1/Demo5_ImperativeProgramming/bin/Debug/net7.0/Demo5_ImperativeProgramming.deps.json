@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Demo5_ImperativeProgramming/1.0.0": {
+        "runtime": {
+          "Demo5_ImperativeProgramming.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo5_ImperativeProgramming/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

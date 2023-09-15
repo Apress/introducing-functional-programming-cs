@@ -1,0 +1,17 @@
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\bin\Debug\net7.0\Demo4_CurryingApplication.exe
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\bin\Debug\net7.0\Demo4_CurryingApplication.deps.json
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\bin\Debug\net7.0\Demo4_CurryingApplication.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\bin\Debug\net7.0\Demo4_CurryingApplication.dll
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\bin\Debug\net7.0\Demo4_CurryingApplication.pdb
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\bin\Debug\net7.0\Curryfy.dll
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\obj\Debug\net7.0\Demo4_CurryingApplication.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\obj\Debug\net7.0\Demo4_CurryingApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\obj\Debug\net7.0\Demo4_CurryingApplication.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\obj\Debug\net7.0\Demo4_CurryingApplication.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\obj\Debug\net7.0\Demo4_CurryingApplication.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\obj\Debug\net7.0\Demo4_CurryingApplication.csproj.CopyComplete
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\obj\Debug\net7.0\Demo4_CurryingApplication.dll
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\obj\Debug\net7.0\refint\Demo4_CurryingApplication.dll
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\obj\Debug\net7.0\Demo4_CurryingApplication.pdb
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\obj\Debug\net7.0\Demo4_CurryingApplication.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\CurryingSolution\Demo4_CurryingApplication\obj\Debug\net7.0\ref\Demo4_CurryingApplication.dll

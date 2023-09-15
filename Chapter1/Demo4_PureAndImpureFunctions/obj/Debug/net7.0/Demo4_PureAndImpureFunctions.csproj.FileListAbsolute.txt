@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo4_PureAndImpureFunctions\bin\Debug\net7.0\Demo4_PureAndImpureFunctions.exe
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo4_PureAndImpureFunctions\bin\Debug\net7.0\Demo4_PureAndImpureFunctions.deps.json
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo4_PureAndImpureFunctions\bin\Debug\net7.0\Demo4_PureAndImpureFunctions.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo4_PureAndImpureFunctions\bin\Debug\net7.0\Demo4_PureAndImpureFunctions.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo4_PureAndImpureFunctions\bin\Debug\net7.0\Demo4_PureAndImpureFunctions.pdb
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo4_PureAndImpureFunctions\obj\Debug\net7.0\Demo4_PureAndImpureFunctions.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo4_PureAndImpureFunctions\obj\Debug\net7.0\Demo4_PureAndImpureFunctions.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo4_PureAndImpureFunctions\obj\Debug\net7.0\Demo4_PureAndImpureFunctions.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo4_PureAndImpureFunctions\obj\Debug\net7.0\Demo4_PureAndImpureFunctions.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo4_PureAndImpureFunctions\obj\Debug\net7.0\Demo4_PureAndImpureFunctions.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo4_PureAndImpureFunctions\obj\Debug\net7.0\Demo4_PureAndImpureFunctions.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo4_PureAndImpureFunctions\obj\Debug\net7.0\refint\Demo4_PureAndImpureFunctions.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo4_PureAndImpureFunctions\obj\Debug\net7.0\Demo4_PureAndImpureFunctions.pdb
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo4_PureAndImpureFunctions\obj\Debug\net7.0\Demo4_PureAndImpureFunctions.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Demo4_PureAndImpureFunctions\obj\Debug\net7.0\ref\Demo4_PureAndImpureFunctions.dll

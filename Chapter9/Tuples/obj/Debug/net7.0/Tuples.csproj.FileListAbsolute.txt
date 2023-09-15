@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\Tuples\bin\Debug\net7.0\Tuples.exe
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\Tuples\bin\Debug\net7.0\Tuples.deps.json
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\Tuples\bin\Debug\net7.0\Tuples.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\Tuples\bin\Debug\net7.0\Tuples.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\Tuples\bin\Debug\net7.0\Tuples.pdb
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\Tuples\obj\Debug\net7.0\Tuples.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\Tuples\obj\Debug\net7.0\Tuples.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\Tuples\obj\Debug\net7.0\Tuples.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\Tuples\obj\Debug\net7.0\Tuples.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\Tuples\obj\Debug\net7.0\Tuples.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\Tuples\obj\Debug\net7.0\Tuples.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\Tuples\obj\Debug\net7.0\refint\Tuples.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\Tuples\obj\Debug\net7.0\Tuples.pdb
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\Tuples\obj\Debug\net7.0\Tuples.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\Tuples\obj\Debug\net7.0\ref\Tuples.dll

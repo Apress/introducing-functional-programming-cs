@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo3_Pipelining\bin\Debug\net7.0\Demo3_Pipelining.exe
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo3_Pipelining\bin\Debug\net7.0\Demo3_Pipelining.deps.json
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo3_Pipelining\bin\Debug\net7.0\Demo3_Pipelining.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo3_Pipelining\bin\Debug\net7.0\Demo3_Pipelining.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo3_Pipelining\bin\Debug\net7.0\Demo3_Pipelining.pdb
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo3_Pipelining\obj\Debug\net7.0\Demo3_Pipelining.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo3_Pipelining\obj\Debug\net7.0\Demo3_Pipelining.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo3_Pipelining\obj\Debug\net7.0\Demo3_Pipelining.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo3_Pipelining\obj\Debug\net7.0\Demo3_Pipelining.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo3_Pipelining\obj\Debug\net7.0\Demo3_Pipelining.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo3_Pipelining\obj\Debug\net7.0\Demo3_Pipelining.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo3_Pipelining\obj\Debug\net7.0\refint\Demo3_Pipelining.dll
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo3_Pipelining\obj\Debug\net7.0\Demo3_Pipelining.pdb
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo3_Pipelining\obj\Debug\net7.0\Demo3_Pipelining.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter4Solution\Demo3_Pipelining\obj\Debug\net7.0\ref\Demo3_Pipelining.dll

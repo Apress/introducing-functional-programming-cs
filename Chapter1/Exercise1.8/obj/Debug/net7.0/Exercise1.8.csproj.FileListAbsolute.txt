@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Exercise1.8\bin\Debug\net7.0\Exercise1.8.exe
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Exercise1.8\bin\Debug\net7.0\Exercise1.8.deps.json
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Exercise1.8\bin\Debug\net7.0\Exercise1.8.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Exercise1.8\bin\Debug\net7.0\Exercise1.8.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Exercise1.8\bin\Debug\net7.0\Exercise1.8.pdb
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Exercise1.8\obj\Debug\net7.0\Exercise1.8.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Exercise1.8\obj\Debug\net7.0\Exercise1.8.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Exercise1.8\obj\Debug\net7.0\Exercise1.8.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Exercise1.8\obj\Debug\net7.0\Exercise1.8.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Exercise1.8\obj\Debug\net7.0\Exercise1.8.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Exercise1.8\obj\Debug\net7.0\Exercise1.8.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Exercise1.8\obj\Debug\net7.0\refint\Exercise1.8.dll
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Exercise1.8\obj\Debug\net7.0\Exercise1.8.pdb
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Exercise1.8\obj\Debug\net7.0\Exercise1.8.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\Chapter1Solution\Exercise1.8\obj\Debug\net7.0\ref\Exercise1.8.dll

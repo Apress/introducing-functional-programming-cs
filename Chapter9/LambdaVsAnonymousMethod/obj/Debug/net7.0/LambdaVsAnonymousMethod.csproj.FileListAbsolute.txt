@@ -1,0 +1,15 @@
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LambdaVsAnonymousMethod\bin\Debug\net7.0\LambdaVsAnonymousMethod.exe
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LambdaVsAnonymousMethod\bin\Debug\net7.0\LambdaVsAnonymousMethod.deps.json
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LambdaVsAnonymousMethod\bin\Debug\net7.0\LambdaVsAnonymousMethod.runtimeconfig.json
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LambdaVsAnonymousMethod\bin\Debug\net7.0\LambdaVsAnonymousMethod.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LambdaVsAnonymousMethod\bin\Debug\net7.0\LambdaVsAnonymousMethod.pdb
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LambdaVsAnonymousMethod\obj\Debug\net7.0\LambdaVsAnonymousMethod.csproj.AssemblyReference.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LambdaVsAnonymousMethod\obj\Debug\net7.0\LambdaVsAnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LambdaVsAnonymousMethod\obj\Debug\net7.0\LambdaVsAnonymousMethod.AssemblyInfoInputs.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LambdaVsAnonymousMethod\obj\Debug\net7.0\LambdaVsAnonymousMethod.AssemblyInfo.cs
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LambdaVsAnonymousMethod\obj\Debug\net7.0\LambdaVsAnonymousMethod.csproj.CoreCompileInputs.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LambdaVsAnonymousMethod\obj\Debug\net7.0\LambdaVsAnonymousMethod.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LambdaVsAnonymousMethod\obj\Debug\net7.0\refint\LambdaVsAnonymousMethod.dll
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LambdaVsAnonymousMethod\obj\Debug\net7.0\LambdaVsAnonymousMethod.pdb
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LambdaVsAnonymousMethod\obj\Debug\net7.0\LambdaVsAnonymousMethod.genruntimeconfig.cache
+E:\MyPrograms\FunctionalC#\LeftoverDiscussionsSolution\LambdaVsAnonymousMethod\obj\Debug\net7.0\ref\LambdaVsAnonymousMethod.dll
