@@ -3,7 +3,7 @@
 This repository accompanies [*Introducing Functional Programming Using C#*](https://link.springer.com/book/10.1007/978-1-4842-9697-4) by Vaskaran Sarcar (Apress, 2023).
 
 [comment]: #cover
-![Cover image](978-1-4842-9696-7.jpg)
+![Cover image](9781484296967.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
